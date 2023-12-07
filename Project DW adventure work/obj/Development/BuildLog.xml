@@ -2,18 +2,18 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>Project DW adventure work</Name>
-    <LastWriteTime>2023-11-02T14:52:33.3354985Z</LastWriteTime>
+    <LastWriteTime>2023-12-02T15:31:17.6169823Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>Load_lan_dau.dtsx</Name>
-      <LastWriteTime>2023-11-02T14:52:33.3223409Z</LastWriteTime>
+      <LastWriteTime>2023-12-04T10:22:27.1790332Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Load_lan_sau.dtsx</Name>
-      <LastWriteTime>2023-11-05T02:41:03.630996Z</LastWriteTime>
+      <LastWriteTime>2023-12-02T15:31:09.2437502Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
